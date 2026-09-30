@@ -1,0 +1,1 @@
+Persistent memory lives in the harness memory directory named in your system prompt (usually ~/.claude/projects/<project>/memory/). Copy MEMORY.md there as the index, then add one file per fact. Format and rules: knowledge/memory-system.md.
